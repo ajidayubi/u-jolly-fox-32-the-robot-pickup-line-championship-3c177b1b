@@ -11,7 +11,7 @@ import os
 import sys
 
 PICKUP_LINE = (
-    "I ran a full diagnostic on myself, and the only fault it found "
+    "I ran a full diagnostic on myself \u2014 the only fault it found "
     "was that I hadn't asked you out yet."
 )
 
